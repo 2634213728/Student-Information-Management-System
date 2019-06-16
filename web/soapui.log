@@ -1,0 +1,3 @@
+2019-06-04 08:30:44,172 WARN  [DefaultSoapUICore] Missing folder [C:\Users\acer\ext] for external libraries
+2019-06-04 08:30:44,477 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\acer\soapui-settings.xml]
+2019-06-04 08:30:45,234 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\acer\intellij-soapui-workspace.xml]

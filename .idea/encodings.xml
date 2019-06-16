@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/wenr/controller/LoginFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wenr/controller/StudentServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wenr/dao/CourseDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wenr/dao/StudentDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wenr/model/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/wenr/util/DBUtil.java" charset="UTF-8" />
+  </component>
+</project>
